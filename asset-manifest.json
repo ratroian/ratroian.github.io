@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9300eb83.css",
+    "main.js": "/static/js/main.28a0fc41.js",
+    "static/media/profile.jpg": "/static/media/profile.01418214281c985a42bb.jpg",
+    "static/media/CV_Troian.pdf": "/static/media/CV_Troian.4eb8bd3b10ad163d9855.pdf",
+    "static/media/about.jpg": "/static/media/about.25037666cca34f8f569a.jpg",
+    "static/media/testimonial3.png": "/static/media/testimonial3.2e18bfe27c6d2e2e9fdc.png",
+    "static/media/testimonial2.png": "/static/media/testimonial2.39a53f7f092f07f5bceb.png",
+    "static/media/testimonial1.png": "/static/media/testimonial1.89079c1d25f2c94ceb89.png",
+    "index.html": "/index.html",
+    "main.9300eb83.css.map": "/static/css/main.9300eb83.css.map",
+    "main.28a0fc41.js.map": "/static/js/main.28a0fc41.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9300eb83.css",
+    "static/js/main.28a0fc41.js"
+  ]
+}

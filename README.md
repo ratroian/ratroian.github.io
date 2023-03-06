@@ -1,2 +1,0 @@
-# ratroian.github.io
-HomeWork
